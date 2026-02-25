@@ -7,6 +7,7 @@
 
 
  👨‍💻 Professional Summary
+ 
 Network & Security Engineer with 8+ years of experience in designing, implementing, and managing 
 enterprisegrade network infrastructures and security solutions.  
 Handson expertise in Firewalls, Data Center Networks, SDWAN, Cloud Security, and VAPT.  
@@ -15,6 +16,7 @@ Experienced in zerodowntime data center migrations and governmentscale environme
 
 
  🧠 Core Skills
+ 
  Firewalls: FortiGate, Check Point, Palo Alto, Cisco ASA, Sophos, SonicWall, pfSense
  Switching & Routing: Cisco, Cisco Nexus 9K, Aruba, HP, Dell, Arista, Juniper
  Wireless: Cisco & Aruba Controllers, Enterprise APs
@@ -27,6 +29,7 @@ Experienced in zerodowntime data center migrations and governmentscale environme
 
 
  🏢 Experience Highlights
+ 
  Tier4 Data Center operations (Government of Telangana – TSWAN & TSCAN)
  Data Center migration without downtime
  Firewall HA, VPNs, SDWAN, ISP redundancy
@@ -36,6 +39,7 @@ Experienced in zerodowntime data center migrations and governmentscale environme
 
 
  📜 Certifications
+ 
  CEH – Certified Ethical Hacker
  CCNA – Cisco Certified Network Associate
  Multiple Firewall Vendor Certifications
@@ -43,6 +47,7 @@ Experienced in zerodowntime data center migrations and governmentscale environme
 
 
  📂 Portfolio Repositories
+ 
 🔹 [Firewall Configurations]()  
 🔹 [Data Center Network Design]()  
 🔹 [SDWAN Architecture]()  
